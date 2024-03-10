@@ -106,44 +106,13 @@
                     "description": "chart about how much your profile is completed"
                 }
             }
-        },
-        "ProgramAndResources ": {
-            "count": 1,
-            "location": "to the right of the SettingsSidebar component",
-            "children": {
-                "Folders": {
-                    "count": 5,
-                    "location": "inside the ProgramAndResources component",
-                    "description": "inovices folder"
-                } , 
-                "AddFolder":{
-                    "count":5,
-                    "location":"inside the ProgramAndResources component and below the Folders",
-                    "description":"users can Add folder"
-                },
-                "Files":{
-                    "count":5,
-                    "location":"inside the ProgramAn below the AddFolder component",
-                    "description":"files with different name"
-                },
-                "ProjectInfo ":{
-                    "count":1,
-                    "location":"to the right in the ProgramResources component",
-                    "description":"description about projects"
-                },
-                "PRSettings ":{
-                    "count":1,
-                    "location":"below the ProjectInfo",
-                    "description":"description about projects"
-                }
-            }
         }
     },
     "sizing_updates": [
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
+        "removed ProgramAndResources component",
         "..."
     ]
 }
