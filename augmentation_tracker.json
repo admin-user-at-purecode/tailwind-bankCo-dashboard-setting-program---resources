@@ -91,22 +91,6 @@
             },
             "children_orientation_description": "flexed"
         },
-        "SettingsSidebar": {
-            "count": 1,
-            "location": "Below the header",
-            "children": {
-                "TabBtn": {
-                    "count": 7,
-                    "location": "inside the SettingsSidebar component",
-                    "description": "provides different options"
-                },
-                "Progressbar": {
-                    "count": 1,
-                    "location": "inside the SettingsSidebar component and below the TabBtn colponents" ,
-                    "description": "chart about how much your profile is completed"
-                }
-            }
-        },
         "ProgramAndResources ": {
             "count": 1,
             "location": "to the right of the SettingsSidebar component",
@@ -143,7 +127,7 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
+        "removed SettingsSidebar component",
         "..."
     ]
 }
