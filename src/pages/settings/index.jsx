@@ -9,6 +9,8 @@ function Settings() {
         <SettingsSidebar />
         <div className="py-8 px-10 col-span-9 tab-content">
           <ProgramAndResources />
+          <ProgramAndResources />
+          <ProgramAndResources />
         </div>
       </div>
     </main>
