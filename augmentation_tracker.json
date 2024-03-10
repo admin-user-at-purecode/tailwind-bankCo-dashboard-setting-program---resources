@@ -108,7 +108,7 @@
             }
         },
         "ProgramAndResources ": {
-            "count": 1,
+            "count": 4,
             "location": "to the right of the SettingsSidebar component",
             "children": {
                 "Folders": {
@@ -140,7 +140,7 @@
         }
     },
     "sizing_updates": [
-        ".."
+        "increased the count of Programa and ProgramAndResources by 3"
     ],
     "screen_and_layout_augmentations": [
         "..",
