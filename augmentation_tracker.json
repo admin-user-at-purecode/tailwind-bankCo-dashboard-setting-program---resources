@@ -92,7 +92,7 @@
             "children_orientation_description": "flexed"
         },
         "SettingsSidebar": {
-            "count": 1,
+            "count": 2,
             "location": "Below the header",
             "children": {
                 "TabBtn": {
@@ -143,7 +143,7 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
+        "increased the count of SettingsSidebar by 1",
         "..."
     ]
 }
