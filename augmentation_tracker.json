@@ -41,12 +41,6 @@
                     "location": "placed centered",
                     "description": "user can enter input"
                 },
-                "ModeToggler": {
-                    "count": 1,
-                    "location": "to the right of the SearchBar",
-                    "description": "theme toggle button",
-                    "functionality": "toggles the global theme"
-                },
                 "ToggleBtn": {
                     "count": 3,
                     "location": "to the right of the ModeToggler button",
@@ -143,7 +137,7 @@
         ".."
     ],
     "screen_and_layout_augmentations": [
-        "..",
+        " Removed dark mode functionality inside HeaderOne",
         "..."
     ]
 }
